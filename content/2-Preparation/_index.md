@@ -10,4 +10,4 @@ pre : " <b> 2. </b> "
 Go to **AWS Console** and login with your credentials. Click on **Services** at the top left, then choose **EC2** in the Compute section.
 {{% /notice %}}
 
-![ConnectPrivate](/images/1.png)
+![ConnectPrivate](https://raw.githubusercontent.com/Kevinau38/Hand-on-Lab-Workshop/refs/heads/master/static/images/1.png)
