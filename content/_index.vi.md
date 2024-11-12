@@ -10,11 +10,12 @@ chapter : false
 
  Mục tiêu của bài thực hành này là khởi chạy một instance EC2 đơn lẻ trong một subnet công khai, có thể truy cập qua Internet bằng SSH. Đây là sơ đồ tư duy của EC2.
 
-![ConnectPrivate](/images/MMEC2.png)
+![ConnectPrivate](https://raw.githubusercontent.com/Kevinau38/Hand-on-Lab-Workshop/refs/heads/master/static/images/MMEC2.png)
 
 ### Sơ đồ Kiến trúc
 
-![ConnectPrivate](/images/EC2.png)
+![ConnectPrivate](https://raw.githubusercontent.com/Kevinau38/Hand-on-Lab-Workshop/refs/heads/master/static/images/EC2.png)
+
 
 ### Nội dung
  1. [Giới thiệu](1-introduce/)
