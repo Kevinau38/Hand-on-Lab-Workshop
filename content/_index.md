@@ -13,7 +13,7 @@ chapter : false
 
 ### Architecture Diagram
 
-![ConnectPrivate](/images/EC2.png)
+![ConnectPrivate](/static/images/EC2.png)
 
 ### Content
  1. [Introduction](1-Introduce/)
