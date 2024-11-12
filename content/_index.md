@@ -9,7 +9,7 @@ chapter : false
 ### Overall
  The goal of this lab is to launch a single EC2 instance in a public subnet accessible over the Internet via SSH. Here is a mind map of EC2.
 
-![ConnectPrivate](github.com/static/images/MMEC2.png)  <!-- Adjusted relative path -->
+![ConnectPrivate](github.com/MMEC2.png)  <!-- Adjusted relative path -->
 
 github.com/...
 
