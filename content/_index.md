@@ -9,11 +9,11 @@ chapter : false
 ### Overall
  The goal of this lab is to launch a single EC2 instance in a public subnet accessible over the Internet via SSH. Here is a mind map of EC2.
 
-![ConnectPrivate](https://raw.githubusercontent.com/Kevinau38/Hand-on-Lab-Workshop/refs/heads/master/static/images/MMEC2.png)  <!-- Adjusted relative path -->
+![ConnectPrivate](https://raw.githubusercontent.com/Kevinau38/Hand-on-Lab-Workshop/refs/heads/master/static/images/MMEC2.png)  
 
 ### Architecture Diagram
 
-![ConnectPrivate](../static/images/EC2.png)    <!-- Adjusted relative path -->
+![ConnectPrivate](https://raw.githubusercontent.com/Kevinau38/Hand-on-Lab-Workshop/refs/heads/master/static/images/EC2.png)
 
 ### Content
  1. [Introduction](1-Introduce/)
